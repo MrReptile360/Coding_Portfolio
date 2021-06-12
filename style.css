@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+ *{
+    border:solid;
+}
+.header{
+    background-color: salmon;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: turquoise;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+     text-align: center;
+}
